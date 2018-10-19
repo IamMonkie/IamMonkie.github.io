@@ -1,0 +1,46 @@
+h2{
+    color:purple;
+    text-decoration: underline;
+}
+
+body{
+    background: url("sourceFiles/tool_bg.png") fixed no-repeat center;
+  /*  background: url("https://wallpapertag.com/wallpaper/full/5/0/9/565651-tool-band-mobile-wallpapers-1920x1080-iphone.jpg") fixed no-repeat center;*/
+    background-color: black;
+    
+    
+    font: 18px Arial;
+    color:rgb(143, 143, 143);
+
+    line-height: 1.2em;
+}
+
+.bg-box{
+    
+}
+
+.container1{
+    width:80%;    
+    margin:auto;
+    
+}
+
+.container-art{
+    tab
+}
+
+table, th, td{
+    
+    border: 1px solid gray;
+   
+}
+
+.center-screen{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
